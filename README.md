@@ -80,8 +80,8 @@ Multidisciplinary 6-person group project addressing e-bike adoption challenges t
 ### Skills
 
 **Design & Simulation:** MATLAB, Simulink, Fusion 360, AutoCAD, REVIT
-**Electronics & Embedded:** C, PIC18F/XC8, I2C, PWM, KiCAD, VeeCAD, soldering
-**Manufacturing:** 3D printing, PLC Programming (Allen-Bradley Micro800, Connected Components Workbench)
+**Electronics & Embedded:** C, PIC18F/XC8, I2C, PWM, KiCAD, VeeCAD
+**Manufacturing:** 3D printing, soldering, PLC Programming (Allen-Bradley Micro800, Connected Components Workbench)
 
 ---
 

@@ -54,4 +54,35 @@ Obstacle-avoiding, beacon-seeking robot built from schematic to a working breadb
 - 📁 [Code](#) · 🎥 [Demo video](#)
 
 #### 🌡️ Two-Room Thermal System Model
-Modelled
+Modelled a two-room RC thermal network in Simulink, deriving transfer functions from first-principles resistance/capacitance relationships.
+- Ran a 5-case parametric sensitivity study (wall resistance, thermal mass, ambient temperature)
+- Computed steady-state values and 2% settling times using MATLAB's `stepinfo`
+- **Tools:** MATLAB, Simulink
+- 📁 [Code](#) · 🎥 [Demo/write-up](#)
+
+#### 🌊 Submarine Hunt — Terminal Strategy Game
+Full-scale terminal strategy game engine written from scratch in C.
+- Structs, arrays of structs, pointers and 15+ modular functions to manage game state
+- Persistent score tracking via file I/O and a weighted scoring system across three mechanics
+- Defensive programming throughout, with genuine per-run randomisation via the time library
+- **Tools:** C
+- 📁 [Code](#) · 🎥 [Demo video](#)
+
+#### ⚡ GEC — E-Bikes: A Solution with Challenges
+Multidisciplinary 6-person group project addressing e-bike adoption challenges through a structured engineering design process. **Achieved a Distinction.**
+- Structured STEEPLE analysis and SMART problem framing
+- Weighted decision matrix to select and cost three candidate solutions
+- Risk assessment and ethical/sustainability evaluation
+- 📁 [Report](#)
+
+---
+
+### Skills
+
+**Design & Simulation:** MATLAB, Simulink, Fusion 360, AutoCAD, REVIT
+**Electronics & Embedded:** C, PIC18F/XC8, I2C, PWM, KiCAD, VeeCAD, soldering
+**Manufacturing:** 3D printing, PLC Programming (Allen-Bradley Micro800, Connected Components Workbench)
+
+---
+
+<p align="center"><i>CV available on request — see contact details above.</i></p>
